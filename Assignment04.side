@@ -279,6 +279,6 @@
     "timeout": 300,
     "tests": []
   }],
-  "urls": ["https://demo.guru99.com/test/newtours/", "https://www.homedepot.ca/en/home.html", "https://shopsmartcanada.com/"],
+  "urls": ["https://shopsmartcanada.com/"],
   "plugins": []
 }
